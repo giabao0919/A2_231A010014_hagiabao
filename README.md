@@ -1,4 +1,4 @@
-# laptrinhdidong_231A010014_hagiabao
+đồng hồ bấm giờ
 
 # 
 Thao tác (đồng hồ đang chạy) 
@@ -29,6 +29,4 @@ pass
 Nhấn Back để thoát hẳn rồi mở lại app 
 Về 00:00.0 
 pass 
-
-231A010014
 
